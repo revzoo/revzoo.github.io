@@ -55,7 +55,7 @@ html {
 
 /* Paper */
 @import url(https://fonts.googleapis.com/css?family=Roboto);
-@import url(https://fonts.googleapis.com/css?family=Caveat);
+@import url(https://fonts.googleapis.com/css?family=Handlee);
 
 
 .paper {
@@ -110,7 +110,7 @@ html {
   outline: 0;
   background: transparent;
   color: #3f3f44;
-  font-family: 'Caveat', cursive;
+  font-family: 'Handlee', cursive;
   font-size: 18px;
   box-sizing: border-box;
   z-index: 1;
