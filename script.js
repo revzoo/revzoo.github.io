@@ -11,10 +11,10 @@ let countDown = new Date('Oct 21, 2021 09:08:00').getTime(),
     let now = new Date().getTime(),
       distance = countDown - now;
 
-    // document.getElementById('hari').innerText = Math.floor(distance / (day)),
-    document.getElementById('jam').innerText = Math.floor(distance / (hour)),
-      document.getElementById('menit').innerText = Math.floor((distance % (hour)) / (minute)),
-      document.getElementById('detik').innerText = Math.floor((distance % (minute)) / second);
+    // document.getElementById('days').innerText = Math.floor(distance / (day)),
+    document.getElementById('hours').innerText = Math.floor(distance / (hour)),
+      document.getElementById('minutes').innerText = Math.floor((distance % (hour)) / (minute)),
+      document.getElementById('seconds').innerText = Math.floor((distance % (minute)) / second);
 
     if (distance < 0) {
 
