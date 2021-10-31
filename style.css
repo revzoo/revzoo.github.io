@@ -54,13 +54,12 @@ html {
 
 
 /* Paper */
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Caveat&display=swap" rel="stylesheet">
+  @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
 
 
 .paper {
-  font-family: 'Caveat', cursive;
+  font-family: 'Quicksand', sans-serif;
   position: relative;
   width: 90%;
   max-width: 800px;
@@ -111,7 +110,7 @@ html {
   outline: 0;
   background: transparent;
   color: #3f3f44;
-  font-family: 'Caveat', cursive;
+  font-family: 'Quicksand', sans-serif;
   font-size: 18px;
   box-sizing: border-box;
   z-index: 1;
