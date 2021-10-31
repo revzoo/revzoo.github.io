@@ -59,7 +59,7 @@ html {
 
 
 .paper {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Architects Daughter', cursive;
   position: relative;
   width: 90%;
   max-width: 800px;
@@ -110,7 +110,7 @@ html {
   outline: 0;
   background: transparent;
   color: #3f3f44;
-  font-family: 'Architects Daughter', cursive;
+  font-family: 'Roboto', sans-serif;
   font-size: 18px;
   box-sizing: border-box;
   z-index: 1;
